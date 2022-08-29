@@ -1,0 +1,7 @@
+o gerenciador de arquivos em c++ v 1.0 contem arquivo cabeçalho de função com leitura e escrita de dados em binario 
+
+leitura com a função :: func_leitura_de_dados_Vec_Char("nome do arquivo");
+
+e
+
+gravação com a função :: func_gravacao_de_dados_binario("nome do arquivo");
